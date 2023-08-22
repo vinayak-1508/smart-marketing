@@ -1,2 +1,2 @@
 # Jarvis Mart
-Official Repository for CSE (Group-9) Class Activity
+Official Repository for academic project
